@@ -1,4 +1,4 @@
-# Filename: net.py
+# Filename: switchconfig.py
 # -*- coding:utf-8 -*-  
 import os,sys
 base = 'C:/Users/quan/Desktop/python/'
